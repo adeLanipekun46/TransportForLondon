@@ -129,7 +129,7 @@
     <Compile Include="Context.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StepDefinitions\UserSteps.cs" />
+    <Compile Include="StepDefinitions\UserManageSteps.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Features\UserManage.feature" />
